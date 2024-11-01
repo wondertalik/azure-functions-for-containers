@@ -21,3 +21,4 @@ local.settings.json
 .gitignore
 Dockerfile
 .dockerignore
+.Ds_Store
